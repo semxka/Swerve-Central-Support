@@ -1,2 +1,2 @@
 # Swerve-Central-Support
-Support for App Swerve Central
+Support for mobile app 'Swerve Central'
